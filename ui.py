@@ -13,7 +13,7 @@ wrd.pack()
 
 submit = tk.Button(frame, text='Send', padx=10,
                  pady=5, fg='#FFFFFF', bg='#6B5A00',
-                 command=lambda: )
+                 command=lambda: print(wrd.get))
 submit.pack()
 
 root.mainloop()
