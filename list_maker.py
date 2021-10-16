@@ -441,7 +441,7 @@ Darwinism
 phenomenal
 semblance
 assassinate
-d’orsay
+d'orsay
 ducats
 kaddish
 lachrymose
@@ -578,7 +578,7 @@ Darwinism
 phenomenal
 semblance
 assassinate
-d’orsay
+d'orsay
 ducats
 kaddish
 lachrymose

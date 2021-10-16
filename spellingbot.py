@@ -12,7 +12,7 @@ def bot(list_):
             engine.say (f"Your word is: {word}")
             engine.runAndWait()
             input_ = input("")
-            if input_ == word:
+            if input_.lower() == str(word).lower():
                 print("Correct!")
                 engine.say ("Correct")
                 engine.runAndWait()
